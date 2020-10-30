@@ -1,1 +1,1 @@
-# potenial-system
+# Code for lunch scheduling system
